@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tours_frontend/static/css/main.3a573758.chunk.css",
+    "main.js": "/tours_frontend/static/js/main.49190969.chunk.js",
+    "main.js.map": "/tours_frontend/static/js/main.49190969.chunk.js.map",
+    "runtime-main.js": "/tours_frontend/static/js/runtime-main.4892e7b5.js",
+    "runtime-main.js.map": "/tours_frontend/static/js/runtime-main.4892e7b5.js.map",
+    "static/js/2.98920266.chunk.js": "/tours_frontend/static/js/2.98920266.chunk.js",
+    "static/js/2.98920266.chunk.js.map": "/tours_frontend/static/js/2.98920266.chunk.js.map",
+    "static/js/3.698ba3b5.chunk.js": "/tours_frontend/static/js/3.698ba3b5.chunk.js",
+    "static/js/3.698ba3b5.chunk.js.map": "/tours_frontend/static/js/3.698ba3b5.chunk.js.map",
+    "index.html": "/tours_frontend/index.html",
+    "static/css/main.3a573758.chunk.css.map": "/tours_frontend/static/css/main.3a573758.chunk.css.map",
+    "static/js/2.98920266.chunk.js.LICENSE.txt": "/tours_frontend/static/js/2.98920266.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tours_frontend/static/media/amboseli.815bb603.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4892e7b5.js",
+    "static/js/2.98920266.chunk.js",
+    "static/css/main.3a573758.chunk.css",
+    "static/js/main.49190969.chunk.js"
+  ]
+}
